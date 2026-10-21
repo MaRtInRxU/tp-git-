@@ -1,4 +1,4 @@
-# Menu
+# Today's menu
 
 - lasagnes 
 - salade
